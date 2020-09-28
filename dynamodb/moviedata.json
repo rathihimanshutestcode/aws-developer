@@ -1,0 +1,436 @@
+[
+ {
+        "year": 1956,
+        "title": "Moby Dick",
+        "info": {
+            "directors": ["John Huston"],
+            "release_date": "1956-06-27T00:00:00Z",
+            "rating": 7.3,
+            "genres": [
+                "Adventure",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTMwOTA2MjU5N15BMl5BanBnXkFtZTcwMDYzODI1NA@@._V1_SX400_.jpg",
+            "plot": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
+            "rank": 4978,
+            "running_time_secs": 6960,
+            "actors": [
+                "Gregory Peck",
+                "Richard Basehart",
+                "Leo Genn"
+            ]
+        }
+    },
+    {
+        "year": 1984,
+        "title": "The Philadelphia Experiment",
+        "info": {
+            "directors": ["Stewart Raffill"],
+            "release_date": "1984-08-03T00:00:00Z",
+            "rating": 6.1,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Romance",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjA2MDA5NTg5OF5BMl5BanBnXkFtZTcwMTEwNDI4OA@@._V1_SX400_.jpg",
+            "plot": "A United States Navy destroyer escort participates in a Navy \"invisibility\" experiment that inadvertently sends two sailors 40 years into the future.",
+            "rank": 4979,
+            "running_time_secs": 6120,
+            "actors": [
+                "Michael Pare",
+                "Nancy Allen",
+                "Eric Christmas"
+            ]
+        }
+    },
+    {
+        "year": 1998,
+        "title": "Dead Man on Campus",
+        "info": {
+            "directors": ["Alan Cohn"],
+            "release_date": "1998-08-01T00:00:00Z",
+            "rating": 5.7,
+            "genres": ["Comedy"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjE2MDk1MzYzN15BMl5BanBnXkFtZTcwNjkzNDQyMQ@@._V1_SX400_.jpg",
+            "plot": "Two college roommates go out and party, resulting in bad grades. They learn of the clause that says, \"If your roommate dies, you get an A,\" and decide to find someone who is on the verge, so to speak, to move in with them.",
+            "rank": 4980,
+            "running_time_secs": 5760,
+            "actors": [
+                "Tom Everett Scott",
+                "Mark-Paul Gosselaar",
+                "Poppy Montgomery"
+            ]
+        }
+    },
+    {
+        "year": 2002,
+        "title": "Slackers",
+        "info": {
+            "directors": ["Dewey Nicks"],
+            "release_date": "2002-02-01T00:00:00Z",
+            "rating": 4.9,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQ3OTYzNDA1NV5BMl5BanBnXkFtZTcwNTEyODEyMQ@@._V1_SX400_.jpg",
+            "plot": "When geek Ethan discovers three fellow students scamming the exam system, he blackmails them to win over the college's most popular girl.",
+            "rank": 4981,
+            "running_time_secs": 5160,
+            "actors": [
+                "Devon Sawa",
+                "Robert B. Martin Jr.",
+                "Jason Segel"
+            ]
+        }
+    },
+    {
+        "year": 2008,
+        "title": "From Within",
+        "info": {
+            "directors": ["Phedon Papamichael"],
+            "release_date": "2008-04-25T00:00:00Z",
+            "rating": 5.6,
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjEwOTMyOTE3Ml5BMl5BanBnXkFtZTcwMjkyNTg0Mg@@._V1_SX400_.jpg",
+            "plot": "A small Maryland town is gripped by a curse which causes residents to take their own life one after another.",
+            "rank": 4982,
+            "running_time_secs": 5340,
+            "actors": [
+                "Elizabeth Rice",
+                "Thomas Dekker",
+                "Kelly Blatz"
+            ]
+        }
+    },
+    {
+        "year": 2010,
+        "title": "Les aventures extraordinaires d'Adele Blanc-Sec",
+        "info": {
+            "directors": ["Luc Besson"],
+            "release_date": "2010-04-09T00:00:00Z",
+            "rating": 6.1,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Mystery"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTcwNzc0ODc5N15BMl5BanBnXkFtZTcwNDI1MTY4NA@@._V1_SX400_.jpg",
+            "plot": "An adventure set in the early part of the 20th century and focused on a popular novelist and her dealings with would-be suitors, the cops, monsters, and other distractions.",
+            "rank": 4983,
+            "running_time_secs": 6420,
+            "actors": [
+                "Louise Bourgoin",
+                "Mathieu Amalric",
+                "Gilles Lellouche"
+            ]
+        }
+    },
+    {
+        "year": 1993,
+        "title": "Searching for Bobby Fischer",
+        "info": {
+            "directors": ["Steven Zaillian"],
+            "release_date": "1993-08-11T00:00:00Z",
+            "rating": 7.5,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTI3NzY3ODg3N15BMl5BanBnXkFtZTcwNzU1NzcyMQ@@._V1_SX400_.jpg",
+            "plot": "A prepubescent chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.",
+            "rank": 4984,
+            "running_time_secs": 6540,
+            "actors": [
+                "Joe Mantegna",
+                "Ben Kingsley",
+                "Max Pomeranc"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Sassy Pants",
+        "info": {
+            "directors": ["Coley Sohn"],
+            "release_date": "2012-10-26T00:00:00Z",
+            "rating": 6.1,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTU5Mzc4MDM1Nl5BMl5BanBnXkFtZTcwNDYzMDkyNw@@._V1_SX400_.jpg",
+            "plot": "Desperate to get out from under her overprotective mother, a home-schooled teen runs off to live with her dad, and forms a bond with his much-younger boyfriend.",
+            "rank": 4985,
+            "actors": [
+                "Haley Joel Osment",
+                "Anna Gunn",
+                "Ashley Rickards"
+            ]
+        }
+    },
+    {
+        "year": 1982,
+        "title": "The Verdict",
+        "info": {
+            "directors": ["Sidney Lumet"],
+            "release_date": "1982-12-08T00:00:00Z",
+            "rating": 7.7,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTU5MzMwMzAzM15BMl5BanBnXkFtZTcwNjYyMjA0Mg@@._V1_SX400_.jpg",
+            "plot": "A lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.",
+            "rank": 4986,
+            "running_time_secs": 7740,
+            "actors": [
+                "Paul Newman",
+                "Charlotte Rampling",
+                "Jack Warden"
+            ]
+        }
+    },
+    {
+        "year": 1999,
+        "title": "For Love of the Game",
+        "info": {
+            "directors": ["Sam Raimi"],
+            "release_date": "1999-09-15T00:00:00Z",
+            "rating": 6.3,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Sport"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTcyMDk1ODM5N15BMl5BanBnXkFtZTYwNjYzNzQ5._V1_SX400_.jpg",
+            "plot": "A washed up pitcher flashes through his career.",
+            "rank": 4987,
+            "running_time_secs": 8220,
+            "actors": [
+                "Kevin Costner",
+                "Kelly Preston",
+                "John C. Reilly"
+            ]
+        }
+    },
+    {
+        "year": 1998,
+        "title": "Dance with Me",
+        "info": {
+            "directors": ["Randa Haines"],
+            "release_date": "1998-08-21T00:00:00Z",
+            "rating": 5.2,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Music"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQ2MjM2NTEyNl5BMl5BanBnXkFtZTYwMjM2MjE5._V1_SX400_.jpg",
+            "rank": 4988,
+            "running_time_secs": 7560,
+            "actors": [
+                "Vanessa Williams",
+                "Chayanne",
+                "Kris Kristofferson"
+            ]
+        }
+    },
+    {
+        "year": 2008,
+        "title": "The Accidental Husband",
+        "info": {
+            "directors": ["Griffin Dunne"],
+            "release_date": "2008-02-13T00:00:00Z",
+            "rating": 5.4,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTgwODQ0NTY3OF5BMl5BanBnXkFtZTcwNjA2NTQ3MQ@@._V1_SX400_.jpg",
+            "plot": "When talk radio host Emma Lloyd advises one of her listeners to break up with her boyfriend, the jilted ex sets about getting his revenge.",
+            "rank": 4989,
+            "running_time_secs": 5400,
+            "actors": [
+                "Uma Thurman",
+                "Jeffrey Dean Morgan",
+                "Justina Machado"
+            ]
+        }
+    },
+    {
+        "year": 1962,
+        "title": "Cape Fear",
+        "info": {
+            "directors": ["J. Lee Thompson"],
+            "release_date": "1962-04-12T00:00:00Z",
+            "rating": 7.7,
+            "genres": ["Thriller"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTYzMDA1NTQ2OV5BMl5BanBnXkFtZTcwNTA2MTYyMQ@@._V1_SX400_.jpg",
+            "plot": "A lawyer's family is stalked by a man he once helped put in jail.",
+            "rank": 4991,
+            "running_time_secs": 6300,
+            "actors": [
+                "Gregory Peck",
+                "Robert Mitchum",
+                "Polly Bergen"
+            ]
+        }
+    },
+    {
+        "year": 1957,
+        "title": "Trooper Hook",
+        "info": {
+            "directors": ["Charles Marquis Warren"],
+            "release_date": "1957-07-12T00:00:00Z",
+            "rating": 6.5,
+            "genres": ["Western"],
+            "rank": 4992,
+            "running_time_secs": 4860,
+            "actors": [
+                "Joel McCrea",
+                "Barbara Stanwyck",
+                "Earl Holliman"
+            ]
+        }
+    },
+    {
+        "year": 1963,
+        "title": "Lord of the Flies",
+        "info": {
+            "directors": ["Peter Brook"],
+            "release_date": "1963-05-01T00:00:00Z",
+            "rating": 7.1,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjA1Mjc4MDA4MV5BMl5BanBnXkFtZTcwNDI2NTIyMQ@@._V1_SX400_.jpg",
+            "plot": "Shipwrecked on an island, the castaway boys eventually revert to savagery despite the few rational kids' attempts to prevent that.",
+            "rank": 4993,
+            "running_time_secs": 5520,
+            "actors": [
+                "James Aubrey",
+                "Tom Chapin",
+                "Hugh Edwards"
+            ]
+        }
+    },
+    {
+        "year": 1992,
+        "title": "Como agua para chocolate",
+        "info": {
+            "directors": ["Alfonso Arau"],
+            "release_date": "1992-04-16T00:00:00Z",
+            "rating": 7.1,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTUxNDI3MTIyMF5BMl5BanBnXkFtZTcwMzg5NDEzMQ@@._V1_SX400_.jpg",
+            "rank": 4994,
+            "running_time_secs": 6300,
+            "actors": [
+                "Marco Leonardi",
+                "Lumi Cavazos",
+                "Regina Torne"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Renoir",
+        "info": {
+            "directors": ["Gilles Bourdos"],
+            "release_date": "2012-05-25T00:00:00Z",
+            "rating": 6.4,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMzk3Nzg0NDA0Nl5BMl5BanBnXkFtZTcwMTg1MTUxOQ@@._V1_SX400_.jpg",
+            "rank": 4995,
+            "running_time_secs": 6660,
+            "actors": [
+                "Michel Bouquet",
+                "Christa Theret",
+                "Vincent Rottiers"
+            ]
+        }
+    },
+    {
+        "year": 2006,
+        "title": "The Contract",
+        "info": {
+            "directors": ["Bruce Beresford"],
+            "release_date": "2006-10-09T00:00:00Z",
+            "rating": 5.6,
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjEzNTIwMjg2OV5BMl5BanBnXkFtZTcwMzMxNzg0MQ@@._V1_SX400_.jpg",
+            "rank": 4996,
+            "running_time_secs": 5760,
+            "actors": [
+                "John Cusack",
+                "Morgan Freeman",
+                "Jamie Anderson"
+            ]
+        }
+    },
+    {
+        "year": 2010,
+        "title": "The Clinic",
+        "info": {
+            "directors": ["James Rabbitts"],
+            "release_date": "2010-07-25T00:00:00Z",
+            "rating": 5.2,
+            "genres": [
+                "Crime",
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTkwMzUwMjQ5NV5BMl5BanBnXkFtZTcwOTMyMzY2Mw@@._V1_SX400_.jpg",
+            "plot": "While traveling across country with her fiance, Beth wakes alone in an isolated clinic to a mother's worst nightmare. Just how far will she go to save her child?",
+            "rank": 4999,
+            "running_time_secs": 5640,
+            "actors": [
+                "Tabrett Bethell",
+                "Freya Stafford",
+                "Andy Whitfield"
+            ]
+        }
+    },
+    {
+        "year": 2004,
+        "title": "Little Black Book",
+        "info": {
+            "directors": ["Nick Hurran"],
+            "release_date": "2004-08-06T00:00:00Z",
+            "rating": 5.1,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTY0ODczNzM4OV5BMl5BanBnXkFtZTcwNzcyMDUzMw@@._V1_SX400_.jpg",
+            "plot": "A woman snoops through her boyfriend's palm pilot and reveals his former girlfriends, which causes her to question why they're still listed in his little black book.",
+            "rank": 5000,
+            "running_time_secs": 6660,
+            "actors": [
+                "Brittany Murphy",
+                "Ron Livingston",
+                "Holly Hunter"
+            ]
+        }
+    }
+]
+
